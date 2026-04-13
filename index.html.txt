@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lazara West's Homepage</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>Hello! My name is Lazara West. This is my personal homepage.</p>
+
+    <h2>About Me</h2>
+    <p>I am currently learning HTML and how to build websites. I enjoy being creative and exploring new opportunities.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Shopping</li>
+        <li>Traveling</li>
+    </ul>
+
+    <h2>My Favorite Image</h2>
+    <img src="https://via.placeholder.com/200" alt="Sample Image">
+
+    <h2>Links</h2>
+    <p>Visit my <a href="resume.html">Resume Page</a></p>
+
+    <hr>
+
+    <p>&copy; 2026 Lazara West</p>
+
+</body>
+</html>
